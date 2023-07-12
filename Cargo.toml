@@ -1,9 +1,10 @@
 [package]
-name = "promise"
-version = "0.1.0"
+name = "simulate-promise"
+version = "0.0.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "simulate promise implementation for rust"
+repository = "https://github.com/Shcarp/rs-connection.git"
 
 [dependencies]
 thiserror = "1.0"
