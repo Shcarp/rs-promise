@@ -1,6 +1,6 @@
 [package]
 name = "simulate-promise"
-version = "0.0.1"
+version = "1.0.0"
 edition = "2021"
 license = "MIT"
 description = "simulate promise implementation for rust"
